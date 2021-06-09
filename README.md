@@ -1,2 +1,2 @@
-# My-Portfolio
-Portfolio containing all of the projects that I have done so far 
+# Anaswar Jayakumar's Personal Portfolio 
+Welcome to my personal portfolio containing all of the projects that I have worked on so far
